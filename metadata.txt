@@ -1,0 +1,18 @@
+App Name: NexusGrid
+Subtitle: Gamified Shopping List
+Keywords: shopping, list, gamified, extraction, raid, productivity, tactical, inventory, groceries, planning
+Category: Productivity (Secondary: Lifestyle)
+
+Description:
+Transform your mundane grocery shopping into an exhilarating extraction mission with NexusGrid!
+
+NexusGrid is a premium, gamified shopping planner that brings the aesthetics of extraction shooters and cassette futurism right to your macOS desktop. Designed for those who appreciate sleek UI and tactical organization, NexusGrid turns your shopping list into a tactical loadout.
+
+Features:
+- TACTICAL LOADOUT: Plan your groceries in the "Hub". Drag and drop items into your backpack grid, manage your inventory weight, and prepare for the mission.
+- CUSTOM ITEMS: Add your own products with custom prices, names, and icons. Build the ultimate database of your favorite supplies.
+- ACTIVE RAID MODE: Once you hit the store, engage "Active Raid". Your backpack becomes a tactical HUD. Tap items as you put them in your real-life cart to complete objectives.
+- EXTRACTION RECEIPT: When you reach the checkout, request an extraction. NexusGrid will generate an After-Action Report detailing the time spent and the total cost of your successful extraction.
+- NO CLOUD, FULL PRIVACY: Your data is your own. Everything is saved locally on your Mac. No accounts, no internet required.
+
+Prepare your gear. Plan your route. Extract with the groceries. Download NexusGrid today.
